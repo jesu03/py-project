@@ -1,5 +1,5 @@
 import turtle
-pen = turtle.Turtle()
+pen = turtle.Turtle("yarn")
   
 def curve():
     for i in range(200):
