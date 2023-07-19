@@ -1,5 +1,5 @@
 import turtle
-pen = turtle.Turtle()
+this.pen = turtle.Turtle()
   
 def curve():
     for i in range(200):
